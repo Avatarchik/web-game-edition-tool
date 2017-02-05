@@ -1,0 +1,17 @@
+/Users/gillio_a/Documents/EIP/MoleHuntWebApp/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/gillio_a/Documents/EIP/MoleHuntWebApp/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/gillio_a/Documents/EIP/MoleHuntWebApp/obj/Debug/Assembly-CSharp-firstpass.dll
+/Users/gillio_a/Documents/EIP/MoleHuntWebApp/obj/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/gillio_a/Documents/EIP/MoleHuntWebApp/Temp/bin/Debug/UnityEngine.dll
+/Users/gillio_a/Documents/EIP/MoleHuntWebApp/Temp/bin/Debug/UnityEditor.dll
+/Users/gillio_a/Documents/EIP/MoleHuntWebApp/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/gillio_a/Documents/EIP/MoleHuntWebApp/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/gillio_a/Documents/EIP/MoleHuntWebApp/Temp/bin/Debug/Mono.Cecil.dll
+/Users/gillio_a/Documents/EIP/MoleHuntWebApp/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/gillio_a/Documents/EIP/MoleHuntWebApp/Temp/bin/Debug/Unity.DataContract.dll
+/Users/gillio_a/Documents/EIP/MoleHuntWebApp/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/gillio_a/Documents/EIP/MoleHuntWebApp/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/gillio_a/Documents/EIP/MoleHuntWebApp/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/gillio_a/Documents/EIP/MoleHuntWebApp/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/gillio_a/Documents/EIP/MoleHuntWebApp/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/gillio_a/Documents/EIP/MoleHuntWebApp/Temp/bin/Debug/Mono.Cecil.Mdb.dll
